@@ -22,9 +22,10 @@ Self sourced Voron 350mm running Dragon HF on AB (working on SB) with the follow
 
 - [Annex panel clips](https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
 
-## Pending mods
 - [Rama front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
 
 - [Pin Mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
+
+## Pending mods
 
 - [umbilical Mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_umbilical_strain_relief)
