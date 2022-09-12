@@ -1,5 +1,5 @@
 # Voron_Printer_klipper_config BCKP
-Self sourced Voron 350mm running Rapido on SB with the following mods:
+Self sourced Voron 350mm running Rapido / Dragon HF on SB with the following mods:
 
 ## Mods
 - [Nevermore](https://github.com/nevermore3d/Nevermore_Micro)
