@@ -373,6 +373,13 @@ runout_gcode:
 #   Default is 0.5 seconds.
 
 
+Rapido PID
+# [extruder]
+# control = pid
+# pid_kp = 27.800
+# pid_ki = 3.089
+# pid_kd = 62.550
+
 
 ## 	Common Temperature Sensors
 ##   "EPCOS 100K B57560G104F"
@@ -395,29 +402,31 @@ runout_gcode:
 #*#
 #*# [extruder]
 #*# control = pid
-#*# pid_kp = 24.708
-#*# pid_ki = 3.050
-#*# pid_kd = 50.033
+#*# pid_kp = 34.583
+#*# pid_ki = 2.650
+#*# pid_kd = 112.826
 #*#
 #*# [probe]
-#*# z_offset = 7.740
+#*# z_offset = 8.200
 #*#
 #*# [bed_mesh default]
 #*# version = 1
 #*# points =
-#*# 	  -0.016250, -0.082500, 0.038750
-#*# 	  -0.021250, 0.000000, 0.067500
-#*# 	  -0.020000, -0.021250, 0.010000
+#*# 	  -0.015000, -0.012500, -0.033750, 0.008750, -0.013750
+#*# 	  -0.025000, 0.011250, -0.016250, 0.050000, 0.013750
+#*# 	  -0.016250, -0.006250, 0.000000, 0.067500, 0.055000
+#*# 	  -0.015000, -0.011250, -0.012500, 0.015000, -0.010000
+#*# 	  -0.026250, -0.036250, -0.018750, -0.002500, -0.028750
 #*# tension = 0.2
-#*# min_x = 132.0
-#*# algo = lagrange
-#*# y_count = 3
+#*# min_x = 104.0
+#*# algo = bicubic
+#*# y_count = 5
 #*# mesh_y_pps = 2
-#*# min_y = 147.0
-#*# x_count = 3
-#*# max_y = 202.0
+#*# min_y = 104.0
+#*# x_count = 5
+#*# max_y = 245.0
 #*# mesh_x_pps = 2
-#*# max_x = 217.0
+#*# max_x = 245.0
 #*#
 #*# [bed_mesh Textured PEI]
 #*# version = 1
