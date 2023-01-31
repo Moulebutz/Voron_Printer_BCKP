@@ -10,7 +10,7 @@ Self sourced Voron 350mm running Rapido / Dragon HF on SB with the following mod
 - [Unklicky_Z](https://github.com/majarspeed/Unklicky)
     Also running Unklicky_Z because my pin kept falling out my z-endstop when printing sticky PETG
     
-- [Klicky Probe](https://github.com/jlas1/Klicky-Probe) Fell back to Klicky after trying Unklicky for a while, find it easier and more reliable, but I'll keep following the mod and might give Unklicky another chance.
+- ~~[Klicky Probe](https://github.com/jlas1/Klicky-Probe) Fell back to Klicky after trying Unklicky for a while, find it easier and more reliable, but I'll keep following the mod and might give Unklicky another chance. ~~ Trying TAP
 
 - ~~[Auto_z](https://github.com/protoloft/klipper_z_calibration)~~ currently running [KlickyProbeZoffset](https://github.com/T4KUUY4/Voron-Stuff/tree/main/KlickyProbeZoffset), because I had consistancy issues with "Auto Z", I'm working on it. 
 
@@ -33,6 +33,9 @@ Self sourced Voron 350mm running Rapido / Dragon HF on SB with the following mod
 
 - [Purge Bucket](https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
     theres a mod to rin this with klicky, I did not bother, just cut the bucket one the left side so I wouldnt crash my klicky into it
+
+- [Voron TAP](https://github.com/VoronDesign/Voron-Tap)
+    not that convinced yet, but I learned that my printer needs a lot of tuning. 
 
 
 ## Pending mods
