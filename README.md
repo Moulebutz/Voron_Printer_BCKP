@@ -34,11 +34,11 @@ Self sourced Voron 350mm running Rapido / Dragon HF on SB with the following mod
 - [Purge Bucket](https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
     theres a mod to rin this with klicky, I did not bother, just cut the bucket one the left side so I wouldnt crash my klicky into it
 
-- [Voron TAP](https://github.com/VoronDesign/Voron-Tap)
+-~~[Voron TAP](https://github.com/VoronDesign/Voron-Tap)~~
     not that convinced yet, but I learned that my printer needs a lot of tuning. 
-
-
-## Pending mods
+    Moved back to klicky
 
 - [umbilical Mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_umbilical_strain_relief)
-    Probably wanna run this with a CAN an such, future upgrade, for now I want to get the printer dialed in for PIF. 
+
+- [CanBus Toolhead SHT-36V2] (https://mellow-3d.github.io/fly-sht36_v2_general.html)
+    
